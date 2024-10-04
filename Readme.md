@@ -7,6 +7,3 @@ Neste repositorio vou mostrar os principais codigos que se deve saber para:
 3. Regreção Linear e Machine Learn
 
 
-
-
-# EM CONSTRUÇÂO ⚠️⚠️⚠️
