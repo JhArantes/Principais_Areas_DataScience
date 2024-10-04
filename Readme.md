@@ -6,3 +6,7 @@ Neste repositorio vou mostrar os principais codigos que se deve saber para:
 2. Visualização e Plotagem de grafico
 3. Regreção Linear e Machine Learn
 
+
+
+
+# EM CONSTRUÇÂO ⚠️⚠️⚠️
